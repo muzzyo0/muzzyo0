@@ -1,4 +1,5 @@
-![Uploading 210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif…]()
+
+![bd565dcc0a556add0b0a0ed6b26d686e](https://github.com/user-attachments/assets/79cef333-1602-4e02-8450-97f3d20a4b36)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arkadi Popov
 ====================================================================================================================================
