@@ -31,7 +31,7 @@ I am on my way to becoming a software developer. My interest in IT began in chil
 ## 🪄Another Skills
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-## GitHub Streak
+## 🔥GitHub Streak
 
 <b>My GitHub Stats</b>
 
