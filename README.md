@@ -12,7 +12,7 @@ I'm on my way to be software developer
 --------------------------------------
 
 
-### 🧑‍💻 About me 
+## 🧑‍💻 About me 
 
 I am on my way to becoming a software developer. My interest in IT began in childhood when I first disassembled a laptop. Since then, my journey has led me to programming courses on the edX platform, where I am studying materials from well-known universities. Before I started taking these courses, I tried myself in various fields: I studied JavaScript (as well as HTML and CSS) for web development and experimented with data science. However, software development has attracted me the most, thanks to these courses. Since 2024, I have started studying software development through courses on edX, as well as using other applications and resources, including YouTube. My studies have just begun, and I plan to share my work here!
 
@@ -24,7 +24,7 @@ I am on my way to becoming a software developer. My interest in IT began in chil
 * ⚡  I love doing sports, traveling, learning something new, and also discovering new things.
 
 
-### 💻Tech Skills
+## 💻Tech Skills
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 	![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
