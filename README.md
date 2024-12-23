@@ -4,13 +4,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm on my way to be software developer
 --------------------------------------
 
-🧑‍💻 About me I am on my way to becoming a software developer. My interest in IT began in childhood when I first disassembled a laptop. Since then, my journey has led me to programming courses on the edX platform, where I am studying materials from well-known universities. Before I started taking these courses, I tried myself in various fields: I studied JavaScript (as well as HTML and CSS) for web development and experimented with data science. However, software development has attracted me the most, thanks to these courses. Since 2024, I have started studying software development through courses on edX, as well as using other applications and resources, including YouTube. My studies have just begun, and I plan to share my work here!
+🧑‍💻 About me 
+
+I am on my way to becoming a software developer. My interest in IT began in childhood when I first disassembled a laptop. Since then, my journey has led me to programming courses on the edX platform, where I am studying materials from well-known universities. Before I started taking these courses, I tried myself in various fields: I studied JavaScript (as well as HTML and CSS) for web development and experimented with data science. However, software development has attracted me the most, thanks to these courses. Since 2024, I have started studying software development through courses on edX, as well as using other applications and resources, including YouTube. My studies have just begun, and I plan to share my work here!
+
 
 * 🌍  I'm based in Estonia
 * ✉️  You can contact me at [officialarkadipopov@gmail.com](mailto:officialarkadipopov@gmail.com)
 * 🧠  I'm learning languages intensively for software development.
 * 🤝  I'm open to collaborating on exciting projects!
 * ⚡  I love doing sports, traveling, learning something new, and also discovering new things.
+
+
 
 ### Skills
 
