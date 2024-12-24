@@ -36,7 +36,8 @@ I am on my way to becoming a software developer. My interest in IT began in chil
 
 <b>My GitHub Stats</b>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+<a href="http://www.github.com/muzzyo0"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muzzyo0&stroke=ffffff&background=171717&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 
 
 ### 🌐 Socials
